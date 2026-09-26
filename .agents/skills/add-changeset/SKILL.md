@@ -1,6 +1,6 @@
 ---
 name: add-changeset
-description: Create, commit, and push SWC changeset files for the current or an explicitly specified pull request. Use when asked to add a changeset, prepare release notes, decide patch/minor/major bumps, enumerate changed Rust crates, or publish a changeset commit for an SWC PR number or URL; the skill requires every publishable Rust crate with a breaking change or a runtime dependency breaking change to be listed as major, every other changed publishable Rust crate to be listed as patch or minor, and swc_core to be listed as at least patch for Rust crate changes.
+description: Create, commit, and push otv changeset files for the current or an explicitly specified pull request. Use when asked to add a changeset, prepare release notes, decide patch/minor/major bumps, enumerate changed Rust crates, or publish a changeset commit for an SWC PR number or URL; the skill requires every publishable Rust crate with a breaking change or a runtime dependency breaking change to be listed as major, every other changed publishable Rust crate to be listed as patch or minor, and swc_core to be listed as at least patch for Rust crate changes.
 ---
 
 # Add Changeset
